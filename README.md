@@ -24,6 +24,5 @@ To simulate a basic lead scraping + email validation system using Python, Pandas
 **Asma Sheikh**  
 PG Program in Data Science – Data Trained Academy, Noida  
 Data Science Intern – Flip Robo Technology  
-📧 Email: asmasheikh438@gmail.com  
-📞 Phone: +91 8467071830  
+📧 Email: asmasheikh438@gmail.com   
 🔗 [LinkedIn](https://www.linkedin.com/in/asma-sheikh-43bbab328/)
